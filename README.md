@@ -2,7 +2,3 @@
 使用Python爬虫技术获取百度图片，并设计了界面  
 ![界面](https://github.com/gg1036419175/Baidu-Picture-Crawler-based-on-Python/blob/master/Interface.png) 
 ![界面](https://github.com/gg1036419175/Baidu-Picture-Crawler-based-on-Python/blob/master/images.png)
-
-
-
-​    第一次使用
