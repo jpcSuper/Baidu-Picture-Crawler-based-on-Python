@@ -3,6 +3,3 @@
 ![界面](https://github.com/gg1036419175/Baidu-Picture-Crawler-based-on-Python/blob/master/Interface.png) 
 ![界面](https://github.com/gg1036419175/Baidu-Picture-Crawler-based-on-Python/blob/master/images.png)
 
-
-
-123
